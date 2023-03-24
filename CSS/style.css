@@ -1,0 +1,88 @@
+
+body {
+    
+    font: 20px;
+    line-height: 26px;
+background-color: rgb(72, 72, 71);
+}
+
+
+
+header{
+      
+     background:#323234;
+  
+  padding-top:30px;
+  min-height:85px;
+  
+         
+     
+}
+
+.title{
+
+font-size: 50px;
+
+
+
+}
+.section{ font-size: 100px;
+}
+
+p{
+    font-size: 28px;
+}
+
+.earth{
+float: right;
+
+
+
+}
+
+
+h2{font-size: 50px;
+
+
+}
+
+
+.container{
+width:O;
+Margin:0;
+
+}
+ul{
+margin:0;
+padding: 0;
+list-style-type: none;
+font-size: 25px;
+
+}
+
+.title{
+
+    text-align:center;
+}
+
+
+
+.box1 {
+
+float: left;
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
